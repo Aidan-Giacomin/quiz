@@ -228,10 +228,11 @@ public class FinalProject extends Canvas
 		public static void peopleThings()
 			{
 				Object[] option =
-					{ "Kermit", "lavezza", "things?" };
-				weird = JOptionPane.showOptionDialog(frame, "caca",
+					{ "white girls", "uhhhhhhh", "" };
+				weird = JOptionPane.showOptionDialog(frame, "types of poople",
 						"AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH", JOptionPane.YES_NO_CANCEL_OPTION,
 						JOptionPane.QUESTION_MESSAGE, null, option, option[1]);
+				peopleTwo();
 			}
 		public static void peopleTwo()
 			{
@@ -244,7 +245,7 @@ public class FinalProject extends Canvas
 						}
 					case 1:
 						{
-							JOptionPane.showMessageDialog(frame, icon = new ImageIcon(("L.jpg")));
+							JOptionPane.showMessageDialog(frame, icon = new ImageIcon(("l(2).jpg")));
 							break;
 						}
 					case 2:
