@@ -17,7 +17,7 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 public class FinalProject extends Canvas {
-
+//comment
 	static int understanding;
 	static int lasagna;
 	static int weird;
@@ -38,7 +38,7 @@ public class FinalProject extends Canvas {
 		crying = JOptionPane.showInputDialog("babies do this a lot");
 		JOptionPane.showMessageDialog(frame,
 				"welcome " + name + " get ready to be brain fu... I mean have your brain boozled");
-		Object[] options = { "➸" };
+		Object[] options = { "âž¸" };
 		className = JOptionPane.showOptionDialog(frame, "Welcome to gravity the Game of understanding",
 				"cats, dogs, and tacos", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE, null, options,
 				options[0]);
@@ -153,7 +153,7 @@ public class FinalProject extends Canvas {
 	}
 	public static void bigThanks()
 	{
-		Object[] options = { "❤" };
+		Object[] options = { "â�¤" };
 		thanks = JOptionPane.showOptionDialog(frame, "A big thanks to Mr McGuire for this amazing trimester and an enjoyable java experience",
 				"cats, dogs, and tacos", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE, null, options,
 				options[0]);
